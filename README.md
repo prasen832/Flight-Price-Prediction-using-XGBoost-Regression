@@ -36,6 +36,7 @@ One of the simplest and most common solutions advertised to transform categorica
 #### We used Label Encoding for Total stops feature.
 
 ## Take a look at Important Features
+
 ![Features](Imp_Features.jpg)
 
 
