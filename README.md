@@ -34,3 +34,5 @@ One-Hot Encoding is the most common, correct way to deal with non-ordinal catego
 One of the simplest and most common solutions advertised to transform categorical variables is Label Encoding. It consists of substituting each group with a corresponding number and keeping such numbering consistent throughout the feature.
 
 #### We used Label Encoding for Total stops feature.
+
+
