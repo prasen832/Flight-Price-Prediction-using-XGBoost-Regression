@@ -1,4 +1,4 @@
 # Flight-Price-Prediction-using-XGBoost-Regression
 
-## Download the Dataset from following link
-https://www.kaggle.com/datasets/yashdharme36/airfare-ml-predicting-flight-fares?select=Scraped_dataset.csv
+## Overview
+This project is built to predict flight prices for the flights operated in India and travel across major cities.
