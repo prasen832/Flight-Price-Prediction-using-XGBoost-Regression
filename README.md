@@ -54,6 +54,6 @@ One of the simplest and most common solutions advertised to transform categorica
 
 ## Results for first 100 booking prices from Actual Price and Predicted Price
 
-![Result](Resuli.jpg)
+![Result](Result.jpg)
 
 
