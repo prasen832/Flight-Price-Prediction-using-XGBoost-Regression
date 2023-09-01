@@ -3,5 +3,5 @@
 ## Overview
 This project is built to predict flight prices for flights traveling across major cities in India.
 
-
+![Airplane](Airplane.jpg)
 
