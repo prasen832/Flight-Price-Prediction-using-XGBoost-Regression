@@ -39,4 +39,21 @@ One of the simplest and most common solutions advertised to transform categorica
 
 ![Features](Imp_Features.jpg)
 
+## Model fitting using XGBoost 
+
+#### For the Regression model, evaluation should be done using Mean Absolute Percentage Error
+
+1. Split the dataset in train and test set.
+2. XGBoost does not require any feature scaling.
+3. Check for important features.
+4. Import and fit the model.
+5. Evaluate the loss on mean absolute error.
+6. Predict for test data.
+7. Evaluate mean absolute percentage error between y_test and y_pred.
+8. Plot first 100 samples from y_test and y_pred.
+
+## Results for first 100 booking prices from Actual Price and Predicted Price
+
+![Result](Resuli.jpg)
+
 
