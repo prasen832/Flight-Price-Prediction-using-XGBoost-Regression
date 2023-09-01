@@ -52,7 +52,7 @@ One of the simplest and most common solutions advertised to transform categorica
 7. Evaluate mean absolute percentage error between y_test and y_pred.
 8. Plot first 100 samples from y_test and y_pred.
 
-## Results for first 100 booking prices from Actual Price and Predicted Price
+## Results for 100 booking prices - Actual Price and Predicted Price
 
 ![Result](Result.jpg)
 
