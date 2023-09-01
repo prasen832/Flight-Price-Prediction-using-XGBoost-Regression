@@ -23,16 +23,14 @@
 
 ## Handling Categorical Data
 
-Please refer to this nice [article]https://towardsdatascience.com/handling-categorical-data-the-right-way-9d1279956fc6 on how to handle Categorical Data
-
-[Link]https://towardsdatascience.com/handling-categorical-data-the-right-way-9d1279956fc6
+Please refer to this nice [article](https://towardsdatascience.com/handling-categorical-data-the-right-way-9d1279956fc6) on how to handle Categorical Data
 
 ### One-Hot Encoding
-One-Hot Encoding is the most common, correct way to deal with non-ordinal categorical data. It consists of creating an additional feature for each group of the categorical feature and mark each observation belonging (Value=1) or not (Value=0) to that group. 
+One-Hot Encoding is the most common, correct way to deal with non-ordinal categorical data. It consists of creating an additional feature for each group of the categorical feature and marking each observation belonging (Value=1) or not (Value=0) to that group. 
 
-#### We will use One-Hot Encoding for Airline, Class, Source and Destination feature.
+#### We used One-Hot Encoding for Airline, Class, Source and Destination feature.
 
 ### Label Encoding
 One of the simplest and most common solutions advertised to transform categorical variables is Label Encoding. It consists of substituting each group with a corresponding number and keeping such numbering consistent throughout the feature.
 
-#### We will use Label Encoding for Total stops feature.
+#### We used Label Encoding for Total stops feature.
