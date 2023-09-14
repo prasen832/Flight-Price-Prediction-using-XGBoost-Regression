@@ -7,7 +7,7 @@
 
 ![Airplane](Airplane.jpg)
 
-## Exploratory Data Analysis(EDA)
+## EDA and Feature Engineering
 
 ### We used RegEx, Pandas and Numpy together to clean the dataset and some created new features using it
 
