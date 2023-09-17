@@ -1,4 +1,4 @@
-# Flight-Price-Prediction-using-XGBoost-Regression
+# Flight Price Prediction using XGBoost Regression
 
 ## Overview
 1. This **Machine Learning project** is built in **Python** using **Jupyter Notebook** to **Predict flight prices** for flights traveling across **major cities in India**.
