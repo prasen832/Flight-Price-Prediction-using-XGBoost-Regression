@@ -47,7 +47,7 @@ One of the simplest and most common solutions advertised to transform categorica
 2. XGBoost does not require any feature scaling.
 3. Check for important features.
 4. Import and fit the model.
-5. Evaluate the loss on mean absolute error.
+5. Evaluate the loss on mean square error.
 6. Predict for test data.
 7. Evaluate mean absolute percentage error between y_test and y_pred.
 8. Plot first 100 samples from y_test and y_pred.
