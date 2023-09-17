@@ -48,6 +48,12 @@ One of the simplest and most common solutions advertised to transform categorica
 7. Evaluate the mean absolute percentage error between y_test and y_pred.
 8. Plot the first 100 samples from y_test and y_pred.
 
+## Model Performance
+
+**Percentage Accuracy for Test data is 85.64 %**
+
+**Mean Absolute Percentage Error for Test data is 14.36 %**
+
 ## Results for 100 booking prices - Actual Price and Predicted Price
 
 ![Result](Result.jpg)
