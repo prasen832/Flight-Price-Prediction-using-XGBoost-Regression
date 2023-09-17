@@ -35,25 +35,25 @@ One of the simplest and most common solutions advertised to transform categorica
 
 #### We used Label Encoding for Total stops feature.
 
-## Take a look at Important Features
-
-![Features](Imp_Features.jpg)
-
 ## Model fitting using XGBoost 
 
 #### For the Regression model, evaluation should be done using Mean Absolute Percentage Error
 
-1. Split the dataset in train and test set.
+1. Split the dataset into train and test sets.
 2. XGBoost does not require any feature scaling.
 3. Check for important features.
 4. Import and fit the model.
 5. Evaluate the loss on mean square error.
 6. Predict for test data.
-7. Evaluate mean absolute percentage error between y_test and y_pred.
-8. Plot first 100 samples from y_test and y_pred.
+7. Evaluate the mean absolute percentage error between y_test and y_pred.
+8. Plot the first 100 samples from y_test and y_pred.
 
 ## Results for 100 booking prices - Actual Price and Predicted Price
 
 ![Result](Result.jpg)
+
+## Feature Importance
+
+![Features](Imp_Features.jpg)
 
 
