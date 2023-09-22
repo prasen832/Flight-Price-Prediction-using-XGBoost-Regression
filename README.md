@@ -41,12 +41,12 @@ One of the simplest and most common solutions advertised to transform categorica
 
 1. Split the dataset into train and test sets.
 2. XGBoost does not require any feature scaling.
-3. Check for important features.
-4. Import and fit the model.
-5. Evaluate the loss on mean square error.
-6. Predict for test data.
-7. Evaluate the mean absolute percentage error between y_test and y_pred.
-8. Plot the first 100 samples from y_test and y_pred.
+3. Import and fit the model.
+4. Evaluate the loss on mean square error.
+5. Predict for test data.
+6. Evaluate the mean absolute percentage error between y_test and y_pred.
+7. Plot the first 100 samples from y_test and y_pred.
+8. Plot the Feature Importance.
 
 ## Model Performance
 
