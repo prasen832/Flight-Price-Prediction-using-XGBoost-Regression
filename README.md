@@ -62,4 +62,5 @@ One of the simplest and most common solutions advertised to transform categorica
 
 ![Features](Imp_Features.jpg)
 
+### Now, let's jump into the Jupyter Notebook and begin the Coding work.
 
